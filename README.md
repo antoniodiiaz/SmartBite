@@ -93,6 +93,4 @@ El dataset que se ha utilizado se llama Food101. Tienes más información en [`d
 [4]:https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
 [5]:https://sergiolms.github.io/smartbite/
 [6]:https://huggingface.co/spaces/sergiolms/smartbite
-# SmartBite
-# SmartBite
-# SmartBite
+
